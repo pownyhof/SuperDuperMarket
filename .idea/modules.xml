@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/app/app.iml" filepath="$PROJECT_DIR$/modules/main/java/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" filepath="$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/shared/shared.iml" filepath="$PROJECT_DIR$/modules/main/java/shared/shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/sql/sql.iml" filepath="$PROJECT_DIR$/modules/main/java/sql/sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-duper-app.iml" filepath="$PROJECT_DIR$/super-duper-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/test/test.iml" filepath="$PROJECT_DIR$/modules/test/test.iml" />
+    </modules>
+  </component>
+</project>

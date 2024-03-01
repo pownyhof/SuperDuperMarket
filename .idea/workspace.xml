@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe35a919-0399-4065-a7e2-c48ebf30898e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/app/src/de/superduper/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/app/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/csvreader/src/de/superduper/csvreader/CSVReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/csvreader/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/productmanagement/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/productmanagement/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Wine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/shared/shared.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/shared/src/de/superduper/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/shared/src/de/superduper/utils/DataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/shared/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/sql/sql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/sql/src/de/superduper/sql/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/sql/src/de/superduper/sql/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/java/sql/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/main/resources/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/BreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/CheeseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/DataUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/WineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/super-duper-app.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cuchi3O10SU9HZCf5RWOOTLZWL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.DataUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andi/IdeaProjects/super-duper-app/modules/test/java/de.superduper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Andi/IdeaProjects/super-duper-app/test/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\test\java\de.superduper" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\main\test\it" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\main\java" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\main\test" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\main" />
+      <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\main\java\test\src\de\super\test" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe35a919-0399-4065-a7e2-c48ebf30898e" name="Changes" comment="" />
+      <created>1708965025170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708965025170</updated>
+      <workItem from="1708965026363" duration="1368000" />
+      <workItem from="1709052332436" duration="15520000" />
+      <workItem from="1709117942237" duration="9260000" />
+      <workItem from="1709132193890" duration="30574000" />
+      <workItem from="1709220335708" duration="9522000" />
+      <workItem from="1709287047850" duration="1187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/main/java/productmanagement/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/main/java/sql/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/main/dataprovider/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/main/java/shared/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/test/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/test/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

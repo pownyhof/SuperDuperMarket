@@ -1,0 +1,10 @@
+﻿type,name,quality,expiryDate,basePrice
+Käse,Edamer,10,25.05.2024,2.50
+Käse,Gouda,30,25.06.2024,2.50
+Käse,OldAmsterdam,50,25.07.2024,2.50
+Wein,Metternich,-5,-,8.69
+Wein,Dornfelder,25,-,8.69
+Wein,Schwegler,48,-,8.69
+Brot,Weizenbrot,10,06.03.2024,3.30
+Brot,Roggenbrot,20,09.03.2024,3.30
+Brot,Knäckebrot,20,11.03.2024,3.30
