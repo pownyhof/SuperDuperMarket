@@ -41,3 +41,7 @@ Before installing the application, ensure that you have the following prerequisi
 Configure MySQL (if required):
 If your application requires database functionality,
 configure the database connection properties in the config.properties file in `./modules/main/resources/config.properties`
+
+## Testing
+
+Run main() in `./modules/test/src/de/superduper/test/Main.java`

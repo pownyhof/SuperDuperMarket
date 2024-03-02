@@ -1,8 +1,8 @@
 package de.superduper.app;
 
 import de.superduper.constants.Constants;
-import de.superduper.productmanagement.ProductManager;
-import de.superduper.csvreader.CSVReader;
+import de.superduper.dataprovider.DataProvider;
+import de.superduper.productmanager.ProductManager;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -13,19 +13,12 @@ import java.time.LocalDate;
 public class Main {
 
     /**
-     * Reads product data from csv file and prints the product information for a specified number of days.
+     * Reads product data and prints the product information for a specified number of days.
      */
     public static void main(String[] args) throws IOException {
         ProductManager productManager = ProductManager.getInstance();
 
-        // add products from the csv file from the resources folder
-        CSVReader.addProductsFromCSV(Constants.CSV_PRODUCTS_FILE_PATH);
-
-        /*
-         could also add more products here with a working mysql database, for example:
-         Connection connection = MySQLConnection.getConnection(Constants.SQL_CONFIG_PROPERTIES_FILE_PATH);
-         ProductDAO.addProductsFromDataBase(connection);
-        */
+        DataProvider.populateProductList(productManager);
 
         LocalDate currentDate = LocalDate.now();
         LocalDate endDate = LocalDate.now().plusDays(Constants.NUMBER_OF_DAYS_TO_PRINT_PRODUCT_INFO);

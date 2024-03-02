@@ -1,5 +1,6 @@
-module de.superduper.app {
+module de.superduper.bread {
     requires de.superduper.productmanagement;
     requires de.superduper.shared;
-    requires de.superduper.dataprovider;
+
+    exports de.superduper.bread;
 }

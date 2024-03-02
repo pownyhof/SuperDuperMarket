@@ -1,6 +1,6 @@
 package de.superduper.test;
 
-import de.superduper.products.Cheese;
+import de.superduper.cheese.Cheese;
 
 import java.time.LocalDate;
 

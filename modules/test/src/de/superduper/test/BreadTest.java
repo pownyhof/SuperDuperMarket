@@ -1,6 +1,6 @@
 package de.superduper.test;
 
-import de.superduper.products.Bread;
+import de.superduper.bread.Bread;
 
 import java.time.LocalDate;
 

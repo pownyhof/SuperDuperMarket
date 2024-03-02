@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="productmanagement" />
-    <orderEntry type="module" module-name="csvreader" />
+    <orderEntry type="module" module-name="productmanager" />
     <orderEntry type="module" module-name="shared" />
+    <orderEntry type="module" module-name="dataprovider" />
   </component>
 </module>

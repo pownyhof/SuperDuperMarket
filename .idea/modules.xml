@@ -3,12 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/app/app.iml" filepath="$PROJECT_DIR$/modules/main/java/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" filepath="$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/products/bread/bread.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/products/bread/bread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/cheese.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/cheese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/dataprovider.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/dataprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/productmanager.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/productmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/shared/shared.iml" filepath="$PROJECT_DIR$/modules/main/java/shared/shared.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/main/java/sql/sql.iml" filepath="$PROJECT_DIR$/modules/main/java/sql/sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/super-duper-app.iml" filepath="$PROJECT_DIR$/super-duper-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/test/test.iml" filepath="$PROJECT_DIR$/modules/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/products/wine/wine.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/products/wine/wine.iml" />
     </modules>
   </component>
 </project>
