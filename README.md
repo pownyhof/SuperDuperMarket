@@ -7,6 +7,7 @@
 3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
 5. [Configuration](#configuration)
+6. [Testing](#testing)
 
 ## Introduction
 
