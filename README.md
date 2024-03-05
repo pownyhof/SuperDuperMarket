@@ -1,4 +1,4 @@
-# Super Duper App
+# Super Duper App // Plain Java Project
 
 ## Table of Contents
 
