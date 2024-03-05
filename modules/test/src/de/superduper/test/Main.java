@@ -15,7 +15,6 @@ public class Main {
         int passedTests = 0;
         int totalTests = 0;
 
-        // Test formatDate method
         totalTests++;
         if (DataUtilsTest.testFormatDate()) {
             passedTests++;
@@ -23,7 +22,6 @@ public class Main {
             System.out.println("DataUtils testFormatDate failed.");
         }
 
-        // Test capitalizeFirstLetter method
         totalTests++;
         if (DataUtilsTest.testCapitalizeFirstLetter()) {
             passedTests++;
@@ -31,7 +29,6 @@ public class Main {
             System.out.println("DataUtils testCapitalizeFirstLetter failed.");
         }
 
-        // Tests parseDate method
         totalTests++;
         if (DataUtilsTest.testParseDate()) {
             passedTests++;

@@ -3,7 +3,7 @@ module de.superduper.sql {
 
     requires de.superduper.productmanagement;
     requires de.superduper.shared;
-    requires de.superduper.productutils;
+    requires de.superduper.productfactory;
 
     exports de.superduper.sql;
 }

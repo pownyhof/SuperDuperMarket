@@ -1,7 +1,7 @@
 package de.superduper.sql;
 
 import de.superduper.product.Product;
-import de.superduper.productutils.ProductUtils;
+import de.superduper.productfactory.ProductFactory;
 import de.superduper.utils.DataUtils;
 import de.superduper.constants.Constants;
 
@@ -47,7 +47,7 @@ public class ProductDAO {
                 LocalDate expiryDate = resultSet.getDate("expiry_date").toLocalDate();
                 double basePrice = resultSet.getDouble("base_price");
 
-                products.add(ProductUtils.createProductBasedOnType(type, name, quality, expiryDate, basePrice));
+                products.add(ProductFactory.createProductBasedOnType(type, name, quality, expiryDate, basePrice));
             }
         }
 

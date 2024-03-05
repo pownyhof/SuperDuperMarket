@@ -9,6 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="productmanager" />
     <orderEntry type="module" module-name="shared" />
-    <orderEntry type="module" module-name="productutils" />
+    <orderEntry type="module" module-name="productfactory" />
   </component>
 </module>

@@ -7,8 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/cheese.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/cheese.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/dataprovider.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/dataprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productfactory/productfactory.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productfactory/productfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/productmanager.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/productmanager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" filepath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/shared/shared.iml" filepath="$PROJECT_DIR$/modules/main/java/shared/shared.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" filepath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/super-duper-app.iml" filepath="$PROJECT_DIR$/super-duper-app.iml" />

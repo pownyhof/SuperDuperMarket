@@ -5,42 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe35a919-0399-4065-a7e2-c48ebf30898e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/dataprovider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/src/de/superduper/dataprovider/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/dataprovider/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/bread/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/wine/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/wine/wine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/src/de/superduper/productutils/ProductUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/main/java/app/src/de/superduper/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/app/src/de/superduper/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/app/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/app/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/csvreader/csvreader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/bread/bread.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/csvreader/src/de/superduper/csvreader/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/de/superduper/csvreader/CSVReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/csvreader/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/productmanager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/productmanagement/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/src/de/superduper/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/productmanagement/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/src/de/superduper/productmanager/ProductManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/bread/src/de/superduper/bread/Bread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/src/de/superduper/cheese/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/de/superduper/products/Wine.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/wine/src/de/superduper/wine/Wine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/sql/sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/products/cheese/cheese.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/sql/src/de/superduper/sql/MySQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/de/superduper/sql/MySQLConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/sql/src/de/superduper/sql/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/de/superduper/sql/ProductDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/main/java/sql/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/test/src/de/superduper/test/BreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/BreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/test/src/de/superduper/test/CheeseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/CheeseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/test/src/de/superduper/test/WineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/WineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/test/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/csvreader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/de/superduper/csvreader/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/de/superduper/csvreader/CSVReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/csvreader/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/de/superduper/sql/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/de/superduper/sql/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/datamanagement/sql/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/src/de/superduper/productmanager/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productmanager/src/de/superduper/productmanager/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/productutils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productfactory/productfactory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/src/de/superduper/productutils/ProductUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productfactory/src/de/superduper/productfactory/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main/java/productmanagement/productutils/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main/java/productmanagement/productfactory/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/test/src/de/superduper/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/test/src/de/superduper/test/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,40 +51,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.App.executor": "Run",
-    "Application.BreadTest.executor": "Run",
-    "Application.ConsoleApp.executor": "Run",
-    "Application.DataUtilsTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.DataUtilsTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Andi/IdeaProjects/super-duper-app/modules/test/java/de.superduper",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Andi/IdeaProjects/super-duper-app/productutils/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.DataUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andi/IdeaProjects/super-duper-app/modules/test/java/de.superduper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Andi/IdeaProjects/super-duper-app/productutils/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Andi\IdeaProjects\super-duper-app\modules\test\java\de.superduper" />
@@ -143,7 +121,8 @@
       <workItem from="1709220335708" duration="9522000" />
       <workItem from="1709287047850" duration="2064000" />
       <workItem from="1709383696371" duration="1577000" />
-      <workItem from="1709391766589" duration="5702000" />
+      <workItem from="1709391766589" duration="6698000" />
+      <workItem from="1709663400178" duration="767000" />
     </task>
     <servers />
   </component>

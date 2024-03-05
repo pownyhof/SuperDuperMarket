@@ -1,4 +1,4 @@
-package de.superduper.productutils;
+package de.superduper.productfactory;
 
 import de.superduper.bread.Bread;
 import de.superduper.cheese.Cheese;
@@ -8,10 +8,21 @@ import de.superduper.wine.Wine;
 
 import java.time.LocalDate;
 
-/**
- * Utility class for handling project related operations.
+/*
+Used design pattern:
+
+Factory Method Pattern: encapsulates the object creation logic
+and decouples the client code from the specific product implementations (Cheese, Wine, Bread).
+
+Single Responsibility Principle:
+fundamental concept in writing clean, maintainable, and scalable code.
+This leads to improved re-usability, and testability.
  */
-public class ProductUtils {
+
+/**
+ * Factory class for creating different types of products
+ */
+public class ProductFactory {
 
     /**
      * Creates a product instance based on the provided type, name, quality, expiry date, and base price.

@@ -16,7 +16,7 @@ public class Main {
      * Reads product data and prints the product information for a specified number of days.
      */
     public static void main(String[] args) throws IOException {
-        ProductManager productManager = ProductManager.getInstance();
+        ProductManager productManager = new ProductManager();
 
         DataProvider.populateProductList(productManager);
 

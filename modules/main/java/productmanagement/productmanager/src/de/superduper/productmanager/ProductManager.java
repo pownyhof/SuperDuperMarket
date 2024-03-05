@@ -9,11 +9,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-Used design patterns:
+Used design pattern:
 
-Singleton Pattern:
-ensures only a single instance of a class exists throughout an application and
-provides access to that instance from anywhere in the codebase.
+Single Responsibility Principle:
+fundamental concept in writing clean, maintainable, and scalable code.
+This leads to improved re-usability, and testability.
  */
 
 /**
@@ -22,33 +22,10 @@ provides access to that instance from anywhere in the codebase.
 public class ProductManager {
 
     /**
-     * Product manager instance
-     */
-    private static ProductManager instance;
-
-    /**
      * List of all products
      */
     private final List<Product> products = new ArrayList<>();
 
-    /**
-     * Private constructor to prevent instantiation from outside
-     */
-    private ProductManager() { }
-
-    /**
-     * Get product manager instance
-     */
-    public static ProductManager getInstance() {
-        if (instance == null) {
-            synchronized (ProductManager.class) {
-                if (instance == null) {
-                    instance = new ProductManager();
-                }
-            }
-        }
-        return instance;
-    }
 
     /**
      * Adds a product to the product list

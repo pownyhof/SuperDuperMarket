@@ -2,7 +2,7 @@ package de.superduper.csvreader;
 
 import de.superduper.constants.Constants;
 import de.superduper.product.Product;
-import de.superduper.productutils.ProductUtils;
+import de.superduper.productfactory.ProductFactory;
 import de.superduper.utils.DataUtils;
 
 
@@ -51,7 +51,7 @@ public class CSVReader {
                     LocalDate expiryDate = DataUtils.parseDate(data[3].trim());
                     double basePrice = Double.parseDouble(data[4].trim());
 
-                    products.add(ProductUtils.createProductBasedOnType(type, name, quality, expiryDate, basePrice));
+                    products.add(ProductFactory.createProductBasedOnType(type, name, quality, expiryDate, basePrice));
                 } catch (NumberFormatException | DateTimeParseException e) {
                     // Log error for invalid data format
                     System.err.println(Constants.ERROR_PARSING_LINE + line);
